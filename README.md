@@ -19,3 +19,8 @@ Our U2 -Net is designed as a two-level nested U-structure. The following are som
 The trained model is saved at https://drive.google.com/file/d/1tWfz5mSNTx3tgtDDk4n0ZaPu-VD760H-/view?usp=sharing.
 
 **requirements.txt** contains the required libraries to be installed and imported in your system.
+
+References: 
+
+https://www.remove.bg/ - Used for getting masks while training 
+https://github.com/xuebinqin/U-2-Net/blob/master/README.md - U Square Net
