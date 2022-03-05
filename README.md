@@ -6,7 +6,10 @@
 
 **U2net_test.py** is the file which gives the predictions of the input data. Main work is done in this code.
 
+**U2NET_Inference.ipynb** is the testing file.
+
 **U2NET.py** is the architecture of U2NET.
+
 
 Our U2 -Net is designed as a two-level nested U-structure. The following are some of the benefits of the design: 
 <br/>(1)Because of the mixing of receptive fields of various sizes in our proposed ReSidual U-blocks, it is able to gather more contextual information from various scales (RSU).
