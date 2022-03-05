@@ -20,6 +20,8 @@ The trained model is saved at https://drive.google.com/file/d/1tWfz5mSNTx3tgtDDk
 
 **requirements.txt** contains the required libraries to be installed and imported in your system.
 
+The output images of the testing dataset given is saved at https://drive.google.com/drive/folders/1TXwJDu24F61-N7bOy7LbY8M86C-sWtL-?usp=sharing
+
 References: 
 
 https://www.remove.bg/ - Used for getting masks while training 
